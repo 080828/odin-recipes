@@ -1,0 +1,1 @@
+This project puts the HTML knowledge learned so far - HTML boilerplate, headings and paragraphs, lists, links, and images.
